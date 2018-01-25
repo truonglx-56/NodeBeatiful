@@ -1,0 +1,7 @@
+{
+  "feed": "/v2.10/{your-group-id}/feed",
+  "port": "8009",
+  "path": "/v2.10/{your-group-id}/feed?fields=full_picture,description,message,updated_time,from&limit=40&access_token=EAAAAUaZA8jlABAIrFNqmdxQLXQ5xYoD54CJqMZAZC1MDrLJdDhECPC2LCntvOUZCIpNmI0QoP2wGRN4PA0Affqa7W9VYqPQrDxMhrYWB0qD2n3c0tZB4CwREASna9kCBTMMDKdsQNZBuCGofpUHrOl8Nv3pcxvcFn7ce4xNVrxaAZDZD",
+  "token": "&access_token={your-token}"
+}
+
